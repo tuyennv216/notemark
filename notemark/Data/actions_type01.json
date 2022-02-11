@@ -1,0 +1,650 @@
+﻿[
+  {
+    "code": "2001",
+    "name": "AddText",
+    "description": "# Add text to the document at current position.",
+    "type": 1
+  },
+  {
+    "code": "2003",
+    "name": "InsertText",
+    "description": "# Insert string at a position.",
+    "type": 1
+  },
+  {
+    "code": "2004",
+    "name": "ClearAll",
+    "description": "# Delete all text in the document.",
+    "type": 0
+  },
+  {
+    "code": "2645",
+    "name": "DeleteRange",
+    "description": "# Delete a range of text in the document.",
+    "type": 0
+  },
+  {
+    "code": "2011",
+    "name": "Redo",
+    "description": "# Redoes the next action on the undo history.",
+    "type": 0
+  },
+  {
+    "code": "2013",
+    "name": "SelectAll",
+    "description": "# Select all the text in the document.",
+    "type": 0
+  },
+  {
+    "code": "2024",
+    "name": "GotoLine",
+    "description": "# Set caret to start of a line and ensure it is visible.",
+    "type": 0
+  },
+  {
+    "code": "2025",
+    "name": "GotoPos",
+    "description": "# Set caret to a position and ensure it is visible.",
+    "type": 0
+  },
+  {
+    "code": "2141",
+    "name": "SetCurrentPos",
+    "description": "# Sets the position of the caret.",
+    "type": 0
+  },
+  {
+    "code": "2142",
+    "name": "SetSelectionStart",
+    "description": "# Sets the position that starts the selection - this becomes the anchor.",
+    "type": 0
+  },
+  {
+    "code": "2144",
+    "name": "SetSelectionEnd",
+    "description": "# Sets the position that ends the selection - this becomes the caret.",
+    "type": 0
+  },
+  {
+    "code": "2170",
+    "name": "ReplaceSel",
+    "description": "# Replace the selected text with the argument text.",
+    "type": 1
+  },
+  {
+    "code": "2176",
+    "name": "Undo",
+    "description": "# Undo one action in the undo history.",
+    "type": 0
+  },
+  {
+    "code": "2177",
+    "name": "Cut",
+    "description": "# Cut the selection to the clipboard.",
+    "type": 0
+  },
+  {
+    "code": "2178",
+    "name": "Copy",
+    "description": "# Copy the selection to the clipboard.",
+    "type": 0
+  },
+  {
+    "code": "2179",
+    "name": "Paste",
+    "description": "# Paste the contents of the clipboard into the document replacing the selection.",
+    "type": 0
+  },
+  {
+    "code": "2180",
+    "name": "Clear",
+    "description": "# Clear the selection.",
+    "type": 0
+  },
+  {
+    "code": "2181",
+    "name": "SetText",
+    "description": "# Replace the contents of the document with the argument text.",
+    "type": 1
+  },
+  {
+    "code": "2282",
+    "name": "AppendText",
+    "description": "# Append a string to the end of the document without changing the selection.",
+    "type": 1
+  },
+  {
+    "code": "2288",
+    "name": "LinesJoin",
+    "description": "# Join the lines in the target.",
+    "type": 0
+  },
+  {
+    "code": "2289",
+    "name": "LinesSplit",
+    "description": "# where possible.",
+    "type": 0
+  },
+  {
+    "code": "2300",
+    "name": "LineDown",
+    "description": "# Move caret down one line.",
+    "type": 0
+  },
+  {
+    "code": "2301",
+    "name": "LineDownExtend",
+    "description": "# Move caret down one line extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2302",
+    "name": "LineUp",
+    "description": "# Move caret up one line.",
+    "type": 0
+  },
+  {
+    "code": "2303",
+    "name": "LineUpExtend",
+    "description": "# Move caret up one line extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2304",
+    "name": "CharLeft",
+    "description": "# Move caret left one character.",
+    "type": 0
+  },
+  {
+    "code": "2305",
+    "name": "CharLeftExtend",
+    "description": "# Move caret left one character extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2306",
+    "name": "CharRight",
+    "description": "# Move caret right one character.",
+    "type": 0
+  },
+  {
+    "code": "2307",
+    "name": "CharRightExtend",
+    "description": "# Move caret right one character extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2308",
+    "name": "WordLeft",
+    "description": "# Move caret left one word.",
+    "type": 0
+  },
+  {
+    "code": "2309",
+    "name": "WordLeftExtend",
+    "description": "# Move caret left one word extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2310",
+    "name": "WordRight",
+    "description": "# Move caret right one word.",
+    "type": 0
+  },
+  {
+    "code": "2311",
+    "name": "WordRightExtend",
+    "description": "# Move caret right one word extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2312",
+    "name": "Home",
+    "description": "# Move caret to first position on line.",
+    "type": 0
+  },
+  {
+    "code": "2313",
+    "name": "HomeExtend",
+    "description": "# Move caret to first position on line extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2314",
+    "name": "LineEnd",
+    "description": "# Move caret to last position on line.",
+    "type": 0
+  },
+  {
+    "code": "2315",
+    "name": "LineEndExtend",
+    "description": "# Move caret to last position on line extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2316",
+    "name": "DocumentStart",
+    "description": "# Move caret to first position in document.",
+    "type": 0
+  },
+  {
+    "code": "2317",
+    "name": "DocumentStartExtend",
+    "description": "# Move caret to first position in document extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2318",
+    "name": "DocumentEnd",
+    "description": "# Move caret to last position in document.",
+    "type": 0
+  },
+  {
+    "code": "2319",
+    "name": "DocumentEndExtend",
+    "description": "# Move caret to last position in document extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2320",
+    "name": "PageUp",
+    "description": "# Move caret one page up.",
+    "type": 0
+  },
+  {
+    "code": "2321",
+    "name": "PageUpExtend",
+    "description": "# Move caret one page up extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2322",
+    "name": "PageDown",
+    "description": "# Move caret one page down.",
+    "type": 0
+  },
+  {
+    "code": "2323",
+    "name": "PageDownExtend",
+    "description": "# Move caret one page down extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2324",
+    "name": "EditToggleOvertype",
+    "description": "# Switch from insert to overtype mode or the reverse.",
+    "type": 0
+  },
+  {
+    "code": "2325",
+    "name": "Cancel",
+    "description": "# Cancel any modes such as call tip or auto-completion list display.",
+    "type": 0
+  },
+  {
+    "code": "2326",
+    "name": "DeleteBack",
+    "description": "# Delete the selection or if no selection, the character before the caret.",
+    "type": 0
+  },
+  {
+    "code": "2327",
+    "name": "Tab",
+    "description": "# If more than one line selected, indent the lines.",
+    "type": 0
+  },
+  {
+    "code": "2328",
+    "name": "BackTab",
+    "description": "# Dedent the selected lines.",
+    "type": 0
+  },
+  {
+    "code": "2329",
+    "name": "NewLine",
+    "description": "# Insert a new line, may use a CRLF, CR or LF depending on EOL mode.",
+    "type": 0
+  },
+  {
+    "code": "2335",
+    "name": "DelWordLeft",
+    "description": "# Delete the word to the left of the caret.",
+    "type": 0
+  },
+  {
+    "code": "2336",
+    "name": "DelWordRight",
+    "description": "# Delete the word to the right of the caret.",
+    "type": 0
+  },
+  {
+    "code": "2518",
+    "name": "DelWordRightEnd",
+    "description": "# Delete the word to the right of the caret, but not the trailing non-word characters.",
+    "type": 0
+  },
+  {
+    "code": "2337",
+    "name": "LineCut",
+    "description": "# Cut the line containing the caret.",
+    "type": 0
+  },
+  {
+    "code": "2338",
+    "name": "LineDelete",
+    "description": "# Delete the line containing the caret.",
+    "type": 0
+  },
+  {
+    "code": "2339",
+    "name": "LineTranspose",
+    "description": "# Switch the current line with the previous.",
+    "type": 0
+  },
+  {
+    "code": "2354",
+    "name": "LineReverse",
+    "description": "# Reverse order of selected lines.",
+    "type": 0
+  },
+  {
+    "code": "2404",
+    "name": "LineDuplicate",
+    "description": "# Duplicate the current line.",
+    "type": 0
+  },
+  {
+    "code": "2340",
+    "name": "LowerCase",
+    "description": "# Transform the selection to lower case.",
+    "type": 0
+  },
+  {
+    "code": "2341",
+    "name": "UpperCase",
+    "description": "# Transform the selection to upper case.",
+    "type": 0
+  },
+  {
+    "code": "2345",
+    "name": "HomeDisplay",
+    "description": "# Move caret to first position on display line.",
+    "type": 0
+  },
+  {
+    "code": "2346",
+    "name": "HomeDisplayExtend",
+    "description": "# new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2347",
+    "name": "LineEndDisplay",
+    "description": "# Move caret to last position on display line.",
+    "type": 0
+  },
+  {
+    "code": "2348",
+    "name": "LineEndDisplayExtend",
+    "description": "# caret position.",
+    "type": 0
+  },
+  {
+    "code": "2349",
+    "name": "HomeWrap",
+    "description": "# HomeDisplay, then to start of document line Home.",
+    "type": 0
+  },
+  {
+    "code": "2450",
+    "name": "HomeWrapExtend",
+    "description": "# HomeDisplayExtend, then to start of document line HomeExtend.",
+    "type": 0
+  },
+  {
+    "code": "2451",
+    "name": "LineEndWrap",
+    "description": "# LineEndDisplay, then to start of document line LineEnd.",
+    "type": 0
+  },
+  {
+    "code": "2452",
+    "name": "LineEndWrapExtend",
+    "description": "# LineEndDisplayExtend, then to start of document line LineEndExtend.",
+    "type": 0
+  },
+  {
+    "code": "2455",
+    "name": "LineCopy",
+    "description": "# Copy the line containing the caret.",
+    "type": 0
+  },
+  {
+    "code": "2390",
+    "name": "WordPartLeft",
+    "description": "# Move to the previous change in capitalisation.",
+    "type": 0
+  },
+  {
+    "code": "2391",
+    "name": "WordPartLeftExtend",
+    "description": "# to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2392",
+    "name": "WordPartRight",
+    "description": "# Move to the change next in capitalisation.",
+    "type": 0
+  },
+  {
+    "code": "2393",
+    "name": "WordPartRightExtend",
+    "description": "# to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2395",
+    "name": "DelLineLeft",
+    "description": "# Delete back from the current position to the start of the line.",
+    "type": 0
+  },
+  {
+    "code": "2396",
+    "name": "DelLineRight",
+    "description": "# Delete forwards from the current position to the end of the line.",
+    "type": 0
+  },
+  {
+    "code": "2413",
+    "name": "ParaDown",
+    "description": "# Move caret down one paragraph ",
+    "type": 0
+  },
+  {
+    "code": "2414",
+    "name": "ParaDownExtend",
+    "description": "# Extend selection down one paragraph ",
+    "type": 0
+  },
+  {
+    "code": "2415",
+    "name": "ParaUp",
+    "description": "# Move caret up one paragraph ",
+    "type": 0
+  },
+  {
+    "code": "2416",
+    "name": "ParaUpExtend",
+    "description": "# Extend selection up one paragraph ",
+    "type": 0
+  },
+  {
+    "code": "2419",
+    "name": "CopyRange",
+    "description": "# Copy a range of text to the clipboard. Positions are clipped into the document.",
+    "type": 0
+  },
+  {
+    "code": "2420",
+    "name": "CopyText",
+    "description": "# Copy argument text to the clipboard.",
+    "type": 0
+  },
+  {
+    "code": "2426",
+    "name": "LineDownRectExtend",
+    "description": "# Move caret down one line, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2427",
+    "name": "LineUpRectExtend",
+    "description": "# Move caret up one line, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2428",
+    "name": "CharLeftRectExtend",
+    "description": "# Move caret left one character, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2429",
+    "name": "CharRightRectExtend",
+    "description": "# Move caret right one character, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2430",
+    "name": "HomeRectExtend",
+    "description": "# Move caret to first position on line, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2432",
+    "name": "LineEndRectExtend",
+    "description": "# Move caret to last position on line, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2433",
+    "name": "PageUpRectExtend",
+    "description": "# Move caret one page up, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2434",
+    "name": "PageDownRectExtend",
+    "description": "# Move caret one page down, extending rectangular selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2435",
+    "name": "StutteredPageUp",
+    "description": "# Move caret to top of page, or one page up if already at top of page.",
+    "type": 0
+  },
+  {
+    "code": "2436",
+    "name": "StutteredPageUpExtend",
+    "description": "# Move caret to top of page, or one page up if already at top of page, extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2437",
+    "name": "StutteredPageDown",
+    "description": "# Move caret to bottom of page, or one page down if already at bottom of page.",
+    "type": 0
+  },
+  {
+    "code": "2438",
+    "name": "StutteredPageDownExtend",
+    "description": "# Move caret to bottom of page, or one page down if already at bottom of page, extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2439",
+    "name": "WordLeftEnd",
+    "description": "# Move caret left one word, position cursor at end of word.",
+    "type": 0
+  },
+  {
+    "code": "2440",
+    "name": "WordLeftEndExtend",
+    "description": "# Move caret left one word, position cursor at end of word, extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2441",
+    "name": "WordRightEnd",
+    "description": "# Move caret right one word, position cursor at end of word.",
+    "type": 0
+  },
+  {
+    "code": "2442",
+    "name": "WordRightEndExtend",
+    "description": "# Move caret right one word, position cursor at end of word, extending selection to new caret position.",
+    "type": 0
+  },
+  {
+    "code": "2519",
+    "name": "CopyAllowLine",
+    "description": "# Copy the selection, if selection empty copy the line with the caret",
+    "type": 0
+  },
+  {
+    "code": "2606",
+    "name": "RotateSelection",
+    "description": "# Set the main selection to the next selection.",
+    "type": 0
+  },
+  {
+    "code": "2607",
+    "name": "SwapMainAnchorCaret",
+    "description": "# Swap that caret and anchor of the main selection.",
+    "type": 0
+  },
+  {
+    "code": "2688",
+    "name": "MultipleSelectAddNext",
+    "description": "# If the current selection is empty then select word around caret.",
+    "type": 0
+  },
+  {
+    "code": "2689",
+    "name": "MultipleSelectAddEach",
+    "description": "# If the current selection is empty then select word around caret.",
+    "type": 0
+  },
+  {
+    "code": "2619",
+    "name": "VerticalCentreCaret",
+    "description": "# Centre current line in window.",
+    "type": 0
+  },
+  {
+    "code": "2620",
+    "name": "MoveSelectedLinesUp",
+    "description": "# Move the selected lines up one line, shifting the line above after the selection",
+    "type": 0
+  },
+  {
+    "code": "2621",
+    "name": "MoveSelectedLinesDown",
+    "description": "# Move the selected lines down one line, shifting the line below before the selection",
+    "type": 0
+  },
+  {
+    "code": "2628",
+    "name": "ScrollToStart",
+    "description": "# Scroll to start of document.",
+    "type": 0
+  },
+  {
+    "code": "2629",
+    "name": "ScrollToEnd",
+    "description": "# Scroll to end of document.",
+    "type": 0
+  }
+]

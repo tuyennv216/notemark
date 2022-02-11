@@ -1,0 +1,726 @@
+﻿{
+	"0": {
+		"hex": "&#x0000",
+		"keyname": ""
+	},
+	"3": {
+		"hex": "&#x0003",
+		"keyname": "break"
+	},
+	"8": {
+		"hex": "&#x0008",
+		"keyname": "backspace / delete"
+	},
+	"9": {
+		"hex": "&#x0009",
+		"keyname": "tab"
+	},
+	"12": {
+		"hex": "&#x000C",
+		"keyname": "clear"
+	},
+	"13": {
+		"hex": "&#x000D",
+		"keyname": "enter"
+	},
+	"16": {
+		"hex": "&#x0010",
+		"keyname": "shift"
+	},
+	"17": {
+		"hex": "&#x0011",
+		"keyname": "ctrl"
+	},
+	"18": {
+		"hex": "&#x0012",
+		"keyname": "alt"
+	},
+	"19": {
+		"hex": "&#x0013",
+		"keyname": "pause/break"
+	},
+	"20": {
+		"hex": "&#x0014",
+		"keyname": "caps lock"
+	},
+	"21": {
+		"hex": "&#x0015",
+		"keyname": "hangul"
+	},
+	"25": {
+		"hex": "&#x0019",
+		"keyname": "hanja"
+	},
+	"27": {
+		"hex": "&#x001B",
+		"keyname": "escape"
+	},
+	"28": {
+		"hex": "&#x001C",
+		"keyname": "conversion"
+	},
+	"29": {
+		"hex": "&#x001D",
+		"keyname": "non-conversion"
+	},
+	"32": {
+		"hex": "&#x0020",
+		"keyname": "spacebar"
+	},
+	"33": {
+		"hex": "&#x0021",
+		"keyname": "page up"
+	},
+	"34": {
+		"hex": "&#x0022",
+		"keyname": "page down"
+	},
+	"35": {
+		"hex": "&#x0023",
+		"keyname": "end"
+	},
+	"36": {
+		"hex": "&#x0024",
+		"keyname": "home"
+	},
+	"37": {
+		"hex": "&#x0025",
+		"keyname": "left arrow"
+	},
+	"38": {
+		"hex": "&#x0026",
+		"keyname": "up arrow"
+	},
+	"39": {
+		"hex": "&#x0027",
+		"keyname": "right arrow"
+	},
+	"40": {
+		"hex": "&#x0028",
+		"keyname": "down arrow"
+	},
+	"41": {
+		"hex": "&#x0029",
+		"keyname": "select"
+	},
+	"42": {
+		"hex": "&#x002A",
+		"keyname": "print"
+	},
+	"43": {
+		"hex": "&#x002B",
+		"keyname": "execute"
+	},
+	"44": {
+		"hex": "&#x002C",
+		"keyname": "Print Screen"
+	},
+	"45": {
+		"hex": "&#x002D",
+		"keyname": "insert"
+	},
+	"46": {
+		"hex": "&#x002E",
+		"keyname": "delete"
+	},
+	"47": {
+		"hex": "&#x002F",
+		"keyname": "help"
+	},
+	"48": {
+		"hex": "&#x0030",
+		"keyname": "0"
+	},
+	"49": {
+		"hex": "&#x0031",
+		"keyname": "1"
+	},
+	"50": {
+		"hex": "&#x0032",
+		"keyname": "2"
+	},
+	"51": {
+		"hex": "&#x0033",
+		"keyname": "3"
+	},
+	"52": {
+		"hex": "&#x0034",
+		"keyname": "4"
+	},
+	"53": {
+		"hex": "&#x0035",
+		"keyname": "5"
+	},
+	"54": {
+		"hex": "&#x0036",
+		"keyname": "6"
+	},
+	"55": {
+		"hex": "&#x0037",
+		"keyname": "7"
+	},
+	"56": {
+		"hex": "&#x0038",
+		"keyname": "8"
+	},
+	"57": {
+		"hex": "&#x0039",
+		"keyname": "9"
+	},
+	"58": {
+		"hex": "&#x003A",
+		"keyname": ":"
+	},
+	"59": {
+		"hex": "&#x003B",
+		"keyname": "semicolon (firefox), equals"
+	},
+	"60": {
+		"hex": "&#x003C",
+		"keyname": "<"
+	},
+	"61": {
+		"hex": "&#x003D",
+		"keyname": "equals (firefox)"
+	},
+	"63": {
+		"hex": "&#x003F",
+		"keyname": "ß"
+	},
+	"64": {
+		"hex": "&#x0040",
+		"keyname": "@ (firefox)"
+	},
+	"65": {
+		"hex": "&#x0041",
+		"keyname": "a"
+	},
+	"66": {
+		"hex": "&#x0042",
+		"keyname": "b"
+	},
+	"67": {
+		"hex": "&#x0043",
+		"keyname": "c"
+	},
+	"68": {
+		"hex": "&#x0044",
+		"keyname": "d"
+	},
+	"69": {
+		"hex": "&#x0045",
+		"keyname": "e"
+	},
+	"70": {
+		"hex": "&#x0046",
+		"keyname": "f"
+	},
+	"71": {
+		"hex": "&#x0047",
+		"keyname": "g"
+	},
+	"72": {
+		"hex": "&#x0048",
+		"keyname": "h"
+	},
+	"73": {
+		"hex": "&#x0049",
+		"keyname": "i"
+	},
+	"74": {
+		"hex": "&#x004A",
+		"keyname": "j"
+	},
+	"75": {
+		"hex": "&#x004B",
+		"keyname": "k"
+	},
+	"76": {
+		"hex": "&#x004C",
+		"keyname": "l"
+	},
+	"77": {
+		"hex": "&#x004D",
+		"keyname": "m"
+	},
+	"78": {
+		"hex": "&#x004E",
+		"keyname": "n"
+	},
+	"79": {
+		"hex": "&#x004F",
+		"keyname": "o"
+	},
+	"80": {
+		"hex": "&#x0050",
+		"keyname": "p"
+	},
+	"81": {
+		"hex": "&#x0051",
+		"keyname": "q"
+	},
+	"82": {
+		"hex": "&#x0052",
+		"keyname": "r"
+	},
+	"83": {
+		"hex": "&#x0053",
+		"keyname": "s"
+	},
+	"84": {
+		"hex": "&#x0054",
+		"keyname": "t"
+	},
+	"85": {
+		"hex": "&#x0055",
+		"keyname": "u"
+	},
+	"86": {
+		"hex": "&#x0056",
+		"keyname": "v"
+	},
+	"87": {
+		"hex": "&#x0057",
+		"keyname": "w"
+	},
+	"88": {
+		"hex": "&#x0058",
+		"keyname": "x"
+	},
+	"89": {
+		"hex": "&#x0059",
+		"keyname": "y"
+	},
+	"90": {
+		"hex": "&#x005A",
+		"keyname": "z"
+	},
+	"91": {
+		"hex": "&#x005B",
+		"keyname": "Windows Key / Left ⌘ / Chromebook Search key"
+	},
+	"92": {
+		"hex": "&#x005C",
+		"keyname": "right window key"
+	},
+	"93": {
+		"hex": "&#x005D",
+		"keyname": "Windows Menu / Right ⌘"
+	},
+	"95": {
+		"hex": "&#x005F",
+		"keyname": "sleep"
+	},
+	"96": {
+		"hex": "&#x0060",
+		"keyname": "numpad 0"
+	},
+	"97": {
+		"hex": "&#x0061",
+		"keyname": "numpad 1"
+	},
+	"98": {
+		"hex": "&#x0062",
+		"keyname": "numpad 2"
+	},
+	"99": {
+		"hex": "&#x0063",
+		"keyname": "numpad 3"
+	},
+	"100": {
+		"hex": "&#x0064",
+		"keyname": "numpad 4"
+	},
+	"101": {
+		"hex": "&#x0065",
+		"keyname": "numpad 5"
+	},
+	"102": {
+		"hex": "&#x0066",
+		"keyname": "numpad 6"
+	},
+	"103": {
+		"hex": "&#x0067",
+		"keyname": "numpad 7"
+	},
+	"104": {
+		"hex": "&#x0068",
+		"keyname": "numpad 8"
+	},
+	"105": {
+		"hex": "&#x0069",
+		"keyname": "numpad 9"
+	},
+	"106": {
+		"hex": "&#x006A",
+		"keyname": "multiply"
+	},
+	"107": {
+		"hex": "&#x006B",
+		"keyname": "add"
+	},
+	"108": {
+		"hex": "&#x006C",
+		"keyname": "numpad period (firefox)"
+	},
+	"109": {
+		"hex": "&#x006D",
+		"keyname": "subtract"
+	},
+	"110": {
+		"hex": "&#x006E",
+		"keyname": "decimal point"
+	},
+	"111": {
+		"hex": "&#x006F",
+		"keyname": "divide"
+	},
+	"112": {
+		"hex": "&#x0070",
+		"keyname": "f1"
+	},
+	"113": {
+		"hex": "&#x0071",
+		"keyname": "f2"
+	},
+	"114": {
+		"hex": "&#x0072",
+		"keyname": "f3"
+	},
+	"115": {
+		"hex": "&#x0073",
+		"keyname": "f4"
+	},
+	"116": {
+		"hex": "&#x0074",
+		"keyname": "f5"
+	},
+	"117": {
+		"hex": "&#x0075",
+		"keyname": "f6"
+	},
+	"118": {
+		"hex": "&#x0076",
+		"keyname": "f7"
+	},
+	"119": {
+		"hex": "&#x0077",
+		"keyname": "f8"
+	},
+	"120": {
+		"hex": "&#x0078",
+		"keyname": "f9"
+	},
+	"121": {
+		"hex": "&#x0079",
+		"keyname": "f10"
+	},
+	"122": {
+		"hex": "&#x007A",
+		"keyname": "f11"
+	},
+	"123": {
+		"hex": "&#x007B",
+		"keyname": "f12"
+	},
+	"124": {
+		"hex": "&#x007C",
+		"keyname": "f13"
+	},
+	"125": {
+		"hex": "&#x007D",
+		"keyname": "f14"
+	},
+	"126": {
+		"hex": "&#x007E",
+		"keyname": "f15"
+	},
+	"127": {
+		"hex": "&#x007F",
+		"keyname": "f16"
+	},
+	"128": {
+		"hex": "&#x0080",
+		"keyname": "f17"
+	},
+	"129": {
+		"hex": "&#x0081",
+		"keyname": "f18"
+	},
+	"130": {
+		"hex": "&#x0082",
+		"keyname": "f19"
+	},
+	"131": {
+		"hex": "&#x0083",
+		"keyname": "f20"
+	},
+	"132": {
+		"hex": "&#x0084",
+		"keyname": "f21"
+	},
+	"133": {
+		"hex": "&#x0085",
+		"keyname": "f22"
+	},
+	"134": {
+		"hex": "&#x0086",
+		"keyname": "f23"
+	},
+	"135": {
+		"hex": "&#x0087",
+		"keyname": "f24"
+	},
+	"136": {
+		"hex": "&#x0088",
+		"keyname": "f25"
+	},
+	"137": {
+		"hex": "&#x0089",
+		"keyname": "f26"
+	},
+	"138": {
+		"hex": "&#x008A",
+		"keyname": "f27"
+	},
+	"139": {
+		"hex": "&#x008B",
+		"keyname": "f28"
+	},
+	"140": {
+		"hex": "&#x008C",
+		"keyname": "f29"
+	},
+	"141": {
+		"hex": "&#x008D",
+		"keyname": "f30"
+	},
+	"142": {
+		"hex": "&#x008E",
+		"keyname": "f31"
+	},
+	"143": {
+		"hex": "&#x008F",
+		"keyname": "f32"
+	},
+	"144": {
+		"hex": "&#x0090",
+		"keyname": "num lock"
+	},
+	"145": {
+		"hex": "&#x0091",
+		"keyname": "scroll lock"
+	},
+	"151": {
+		"hex": "&#x0097",
+		"keyname": "airplane mode"
+	},
+	"160": {
+		"hex": "&#x00A0",
+		"keyname": "^"
+	},
+	"161": {
+		"hex": "&#x00A1",
+		"keyname": "!"
+	},
+	"162": {
+		"hex": "&#x00A2",
+		"keyname": "؛ (arabic semicolon)"
+	},
+	"163": {
+		"hex": "&#x00A3",
+		"keyname": "#"
+	},
+	"164": {
+		"hex": "&#x00A4",
+		"keyname": "$"
+	},
+	"165": {
+		"hex": "&#x00A5",
+		"keyname": "ù"
+	},
+	"166": {
+		"hex": "&#x00A6",
+		"keyname": "page backward"
+	},
+	"167": {
+		"hex": "&#x00A7",
+		"keyname": "page forward"
+	},
+	"168": {
+		"hex": "&#x00A8",
+		"keyname": "refresh"
+	},
+	"169": {
+		"hex": "&#x00A9",
+		"keyname": "closing paren (AZERTY)"
+	},
+	"170": {
+		"hex": "&#x00AA",
+		"keyname": "*"
+	},
+	"171": {
+		"hex": "&#x00AB",
+		"keyname": "~ + * key"
+	},
+	"172": {
+		"hex": "&#x00AC",
+		"keyname": "home key"
+	},
+	"173": {
+		"hex": "&#x00AD",
+		"keyname": "minus (firefox), mute/unmute"
+	},
+	"174": {
+		"hex": "&#x00AE",
+		"keyname": "decrease volume level"
+	},
+	"175": {
+		"hex": "&#x00AF",
+		"keyname": "increase volume level"
+	},
+	"176": {
+		"hex": "&#x00B0",
+		"keyname": "next"
+	},
+	"177": {
+		"hex": "&#x00B1",
+		"keyname": "previous"
+	},
+	"178": {
+		"hex": "&#x00B2",
+		"keyname": "stop"
+	},
+	"179": {
+		"hex": "&#x00B3",
+		"keyname": "play/pause"
+	},
+	"180": {
+		"hex": "&#x00B4",
+		"keyname": "e-mail"
+	},
+	"181": {
+		"hex": "&#x00B5",
+		"keyname": "mute/unmute (firefox)"
+	},
+	"182": {
+		"hex": "&#x00B6",
+		"keyname": "decrease volume level (firefox)"
+	},
+	"183": {
+		"hex": "&#x00B7",
+		"keyname": "increase volume level (firefox)"
+	},
+	"186": {
+		"hex": "&#x00BA",
+		"keyname": "semi-colon / ñ"
+	},
+	"187": {
+		"hex": "&#x00BB",
+		"keyname": "equal sign"
+	},
+	"188": {
+		"hex": "&#x00BC",
+		"keyname": "comma"
+	},
+	"189": {
+		"hex": "&#x00BD",
+		"keyname": "dash"
+	},
+	"190": {
+		"hex": "&#x00BE",
+		"keyname": "period"
+	},
+	"191": {
+		"hex": "&#x00BF",
+		"keyname": "forward slash / ç"
+	},
+	"192": {
+		"hex": "&#x00C0",
+		"keyname": "grave accent / ñ / æ / ö"
+	},
+	"193": {
+		"hex": "&#x00C1",
+		"keyname": "?, / or °"
+	},
+	"194": {
+		"hex": "&#x00C2",
+		"keyname": "numpad period (chrome)"
+	},
+	"219": {
+		"hex": "&#x00DB",
+		"keyname": "open bracket"
+	},
+	"220": {
+		"hex": "&#x00DC",
+		"keyname": "back slash"
+	},
+	"221": {
+		"hex": "&#x00DD",
+		"keyname": "close bracket / å"
+	},
+	"222": {
+		"hex": "&#x00DE",
+		"keyname": "single quote / ø / ä"
+	},
+	"223": {
+		"hex": "&#x00DF",
+		"keyname": "`"
+	},
+	"224": {
+		"hex": "&#x00E0",
+		"keyname": "left or right ⌘ key (firefox)"
+	},
+	"225": {
+		"hex": "&#x00E1",
+		"keyname": "altgr"
+	},
+	"226": {
+		"hex": "&#x00E2",
+		"keyname": "< /git >, left back slash"
+	},
+	"230": {
+		"hex": "&#x00E6",
+		"keyname": "GNOME Compose Key"
+	},
+	"231": {
+		"hex": "&#x00E7",
+		"keyname": "ç"
+	},
+	"233": {
+		"hex": "&#x00E9",
+		"keyname": "XF86Forward"
+	},
+	"234": {
+		"hex": "&#x00EA",
+		"keyname": "XF86Back"
+	},
+	"235": {
+		"hex": "&#x00EB",
+		"keyname": "non-conversion"
+	},
+	"240": {
+		"hex": "&#x00F0",
+		"keyname": "alphanumeric"
+	},
+	"242": {
+		"hex": "&#x00F2",
+		"keyname": "hiragana/katakana"
+	},
+	"243": {
+		"hex": "&#x00F3",
+		"keyname": "half-width/full-width"
+	},
+	"244": {
+		"hex": "&#x00F4",
+		"keyname": "kanji"
+	},
+	"251": {
+		"hex": "&#x00FB",
+		"keyname": "unlock trackpad (Chrome/Edge)"
+	},
+	"255": {
+		"hex": "&#x00FF",
+		"keyname": "toggle touchpad"
+	}
+}

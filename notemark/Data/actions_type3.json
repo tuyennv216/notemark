@@ -1,0 +1,548 @@
+﻿[
+  {
+    "code": "1611",
+    "name": "ID_STATICTEXT_REPLACE",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1691",
+    "name": "IDB_INCREMENTAL_BG",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1724",
+    "name": "IDC_2_BUTTONS_MODE",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1722",
+    "name": "IDC_BACKWARDDIRECTION",
+    "description": "Command find backward direction",
+    "type": 3
+  },
+  {
+    "code": "1633",
+    "name": "IDC_CLEAR_ALL",
+    "description": "Command Clear all marks",
+    "type": 3
+  },
+  {
+    "code": "1725",
+    "name": "IDC_COPY_MARKED_TEXT",
+    "description": "Command Copy marked text",
+    "type": 3
+  },
+  {
+    "code": "1629",
+    "name": "IDC_CURRENT_FILE_RADIO",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1621",
+    "name": "IDC_DIR_STATIC",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1631",
+    "name": "IDC_FILES_RADIO",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1628",
+    "name": "IDC_FIND_IN_STATIC",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1641",
+    "name": "IDC_FINDALL_CURRENTFILE",
+    "description": "Command find all in current file",
+    "type": 3
+  },
+  {
+    "code": "1636",
+    "name": "IDC_FINDALL_OPENEDFILES",
+    "description": "Command find all in all opened file",
+    "type": 3
+  },
+  {
+    "code": "1619",
+    "name": "IDC_FINDALL_STATIC",
+    "description": "Command find all",
+    "type": 3
+  },
+  {
+    "code": "1637",
+    "name": "IDC_FINDINFILES",
+    "description": "Command find in files",
+    "type": 3
+  },
+  {
+    "code": "1638",
+    "name": "IDC_FINDINFILES_LAUNCH",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1723",
+    "name": "IDC_FINDNEXT",
+    "description": "Command find next",
+    "type": 3
+  },
+  {
+    "code": "1721",
+    "name": "IDC_FINDPREV",
+    "description": "Command find previus",
+    "type": 3
+  },
+  {
+    "code": "1702",
+    "name": "IDC_FRCOMMAND_BOOLEANS",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1701",
+    "name": "IDC_FRCOMMAND_EXEC",
+    "description": "Run command",
+    "type": 3
+  },
+  {
+    "code": "1700",
+    "name": "IDC_FRCOMMAND_INIT",
+    "description": "Open Find dialog",
+    "type": 3
+  },
+  {
+    "code": "1639",
+    "name": "IDC_GETCURRENTDOCTYPE",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1632",
+    "name": "IDC_IN_SELECTION_CHECK",
+    "description": "Checkbox In selection",
+    "type": 3
+  },
+  {
+    "code": "1690",
+    "name": "IDC_INCFINDHILITEALL",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1685",
+    "name": "IDC_INCFINDMATCHCASE",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1684",
+    "name": "IDC_INCFINDNXTOK",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1683",
+    "name": "IDC_INCFINDPREVOK",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1689",
+    "name": "IDC_INCFINDSTATUS",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1682",
+    "name": "IDC_INCFINDTEXT",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1681",
+    "name": "IDC_INCSTATIC",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1616",
+    "name": "IDC_MARKLINE_CHECK",
+    "description": "Checkbox Bookmark line",
+    "type": 3
+  },
+  {
+    "code": "1713",
+    "name": "IDC_MATCHLINENUM_CHECK_FIFOLDER",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1624",
+    "name": "IDC_MODE_STATIC",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1716",
+    "name": "IDC_MODE_STATIC_FIFOLDER",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1630",
+    "name": "IDC_OPENED_FILES_RADIO",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1622",
+    "name": "IDC_PERCENTAGE_SLIDER",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1618",
+    "name": "IDC_PURGE_CHECK",
+    "description": "Checkbox Purge for each search",
+    "type": 3
+  },
+  {
+    "code": "1635",
+    "name": "IDC_REPLACE_OPENEDFILES",
+    "description": "Button Replace All in All Openned Documents",
+    "type": 3
+  },
+  {
+    "code": "1634",
+    "name": "IDC_REPLACEINSELECTION",
+    "description": "Checkbox In selection",
+    "type": 3
+  },
+  {
+    "code": "1617",
+    "name": "IDC_STYLEFOUND_CHECK",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1688",
+    "name": "IDC_TRANSPARENT_ALWAYS_RADIO",
+    "description": "Checkbox Always",
+    "type": 3
+  },
+  {
+    "code": "1686",
+    "name": "IDC_TRANSPARENT_CHECK",
+    "description": "Checkbox Transparency",
+    "type": 3
+  },
+  {
+    "code": "1623",
+    "name": "IDC_TRANSPARENT_GRPBOX",
+    "description": "Groupbox Transparency",
+    "type": 3
+  },
+  {
+    "code": "1687",
+    "name": "IDC_TRANSPARENT_LOSSFOCUS_RADIO",
+    "description": "Radio button On losing focus",
+    "type": 3
+  },
+  {
+    "code": "1614",
+    "name": "IDCCOUNTALL",
+    "description": "Button Count",
+    "type": 3
+  },
+  {
+    "code": "1615",
+    "name": "IDCMARKALL",
+    "description": "Button Mark All",
+    "type": 3
+  },
+  {
+    "code": "1600",
+    "name": "IDD_FIND_REPLACE_DLG",
+    "description": "Open find & replace dialog",
+    "type": 3
+  },
+  {
+    "code": "1651",
+    "name": "IDD_FINDINFILES_BROWSE_BUTTON",
+    "description": "Browser folder",
+    "type": 3
+  },
+  {
+    "code": "1653",
+    "name": "IDD_FINDINFILES_DIR_COMBO",
+    "description": "Combobox directory",
+    "type": 3
+  },
+  {
+    "code": "1655",
+    "name": "IDD_FINDINFILES_DIR_STATIC",
+    "description": "Textbox directory",
+    "type": 3
+  },
+  {
+    "code": "1650",
+    "name": "IDD_FINDINFILES_DLG",
+    "description": "Open find in files dialog",
+    "type": 3
+  },
+  {
+    "code": "1652",
+    "name": "IDD_FINDINFILES_FILTERS_COMBO",
+    "description": "Combobox filters",
+    "type": 3
+  },
+  {
+    "code": "1654",
+    "name": "IDD_FINDINFILES_FILTERS_STATIC",
+    "description": "Textbox filters",
+    "type": 3
+  },
+  {
+    "code": "1656",
+    "name": "IDD_FINDINFILES_FIND_BUTTON",
+    "description": "Button Find All",
+    "type": 3
+  },
+  {
+    "code": "1666",
+    "name": "IDD_FINDINFILES_FINDINPROJECTS",
+    "description": "Button Find All",
+    "type": 3
+  },
+  {
+    "code": "1661",
+    "name": "IDD_FINDINFILES_FOLDERFOLLOWSDOC_CHECK",
+    "description": "Checkbox  Follow current doc",
+    "type": 3
+  },
+  {
+    "code": "1659",
+    "name": "IDD_FINDINFILES_INHIDDENDIR_CHECK",
+    "description": "Checkbox In hidden folders",
+    "type": 3
+  },
+  {
+    "code": "1662",
+    "name": "IDD_FINDINFILES_PROJECT1_CHECK",
+    "description": "Checkbox Project Panel 1",
+    "type": 3
+  },
+  {
+    "code": "1663",
+    "name": "IDD_FINDINFILES_PROJECT2_CHECK",
+    "description": "Checkbox Project Panel 2",
+    "type": 3
+  },
+  {
+    "code": "1664",
+    "name": "IDD_FINDINFILES_PROJECT3_CHECK",
+    "description": "Checkbox Project Panel 3",
+    "type": 3
+  },
+  {
+    "code": "1658",
+    "name": "IDD_FINDINFILES_RECURSIVE_CHECK",
+    "description": "Checkbox In all sub-folders",
+    "type": 3
+  },
+  {
+    "code": "1660",
+    "name": "IDD_FINDINFILES_REPLACEINFILES",
+    "description": "Button Replace in Files",
+    "type": 3
+  },
+  {
+    "code": "1665",
+    "name": "IDD_FINDINFILES_REPLACEINPROJECTS",
+    "description": "Button Replace in Projects",
+    "type": 3
+  },
+  {
+    "code": "1710",
+    "name": "IDD_FINDINFINDER_DLG",
+    "description": "Open Find dialog",
+    "type": 3
+  },
+  {
+    "code": "1610",
+    "name": "IDD_FINDREPLACE_SWAP_BUTTON",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1670",
+    "name": "IDD_FINDRESULT",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1680",
+    "name": "IDD_INCREMENT_FIND",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1613",
+    "name": "IDDIRECTIONDOWN",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1612",
+    "name": "IDDIRECTIONUP",
+    "description": "Checkbox Backward direction",
+    "type": 3
+  },
+  {
+    "code": "1626",
+    "name": "IDEXTENDED",
+    "description": "Radio button Extended",
+    "type": 3
+  },
+  {
+    "code": "1718",
+    "name": "IDEXTENDED_FIFOLDER",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1024",
+    "name": "IDF_REDOTMATCHNL",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1601",
+    "name": "IDFINDWHAT",
+    "description": "Textbox Find what",
+    "type": 3
+  },
+  {
+    "code": "1712",
+    "name": "IDFINDWHAT_FIFOLDER",
+    "description": "Textboox Find what / Find in Files",
+    "type": 3
+  },
+  {
+    "code": "1620",
+    "name": "IDFINDWHAT_STATIC",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1711",
+    "name": "IDFINDWHAT_STATIC_FIFOLDER",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1604",
+    "name": "IDMATCHCASE",
+    "description": "Checkbox Match case",
+    "type": 3
+  },
+  {
+    "code": "1715",
+    "name": "IDMATCHCASE_FIFOLDER",
+    "description": "Checkbox Match case / Find in Files",
+    "type": 3
+  },
+  {
+    "code": "1625",
+    "name": "IDNORMAL",
+    "description": "Radio buton Normal",
+    "type": 3
+  },
+  {
+    "code": "1717",
+    "name": "IDNORMAL_FIFOLDER",
+    "description": "Radio buton Normal / Find in Files",
+    "type": 3
+  },
+  {
+    "code": "1703",
+    "name": "IDREDOTMATCHNL",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1720",
+    "name": "IDREDOTMATCHNL_FIFOLDER",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1605",
+    "name": "IDREGEXP",
+    "description": "Radio Regular expression",
+    "type": 3
+  },
+  {
+    "code": "1719",
+    "name": "IDREGEXP_FIFOLDER",
+    "description": "Checkbox Regular expression / Find in Files",
+    "type": 3
+  },
+  {
+    "code": "1608",
+    "name": "IDREPLACE",
+    "description": "Button Replace",
+    "type": 3
+  },
+  {
+    "code": "1609",
+    "name": "IDREPLACEALL",
+    "description": "Button replace all",
+    "type": 3
+  },
+  {
+    "code": "1602",
+    "name": "IDREPLACEWITH",
+    "description": "Textbox Replace with",
+    "type": 3
+  },
+  {
+    "code": "1640",
+    "name": "IDSWITCH",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1607",
+    "name": "IDUNSLASH",
+    "description": "",
+    "type": 3
+  },
+  {
+    "code": "1603",
+    "name": "IDWHOLEWORD",
+    "description": "Checkbox Match whole word only",
+    "type": 3
+  },
+  {
+    "code": "1714",
+    "name": "IDWHOLEWORD_FIFOLDER",
+    "description": "Checkbox Match whole word only / Find in Files",
+    "type": 3
+  },
+  {
+    "code": "1606",
+    "name": "IDWRAP",
+    "description": "Checkbox Wrap around",
+    "type": 3
+  }
+]

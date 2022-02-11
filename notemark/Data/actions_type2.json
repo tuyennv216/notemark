@@ -1,0 +1,1208 @@
+﻿[
+  {
+    "code": "47000",
+    "name": "IDM_ABOUT",
+    "description": "About Notepad++",
+    "type": 2
+  },
+  {
+    "code": "43503",
+    "name": "IDM_DOCLIST_COPYNAMES",
+    "description": "Copy file name to clipboard",
+    "type": 2
+  },
+  {
+    "code": "43504",
+    "name": "IDM_DOCLIST_COPYPATHS",
+    "description": "Copy path to clipboard",
+    "type": 2
+  },
+  {
+    "code": "43501",
+    "name": "IDM_DOCLIST_FILESCLOSE",
+    "description": "Close current file",
+    "type": 2
+  },
+  {
+    "code": "43502",
+    "name": "IDM_DOCLIST_FILESCLOSEOTHERS",
+    "description": "Close others file",
+    "type": 2
+  },
+  {
+    "code": "42022",
+    "name": "IDM_EDIT_BLOCK_COMMENT",
+    "description": "Comment",
+    "type": 2
+  },
+  {
+    "code": "42036",
+    "name": "IDM_EDIT_BLOCK_UNCOMMENT",
+    "description": "Uncomment",
+    "type": 2
+  },
+  {
+    "code": "42002",
+    "name": "IDM_EDIT_COPY",
+    "description": "Copy",
+    "type": 2
+  },
+  {
+    "code": "42087",
+    "name": "IDM_EDIT_COPY_ALL_NAMES",
+    "description": "Copy all names",
+    "type": 2
+  },
+  {
+    "code": "42088",
+    "name": "IDM_EDIT_COPY_ALL_PATHS",
+    "description": "Copy all paths",
+    "type": 2
+  },
+  {
+    "code": "42048",
+    "name": "IDM_EDIT_COPY_BINARY",
+    "description": "",
+    "type": 2
+  },
+  {
+    "code": "42031",
+    "name": "IDM_EDIT_CURRENTDIRTOCLIP",
+    "description": "Copy current folder dir",
+    "type": 2
+  },
+  {
+    "code": "42001",
+    "name": "IDM_EDIT_CUT",
+    "description": "Cut",
+    "type": 2
+  },
+  {
+    "code": "42049",
+    "name": "IDM_EDIT_CUT_BINARY",
+    "description": "",
+    "type": 2
+  },
+  {
+    "code": "42006",
+    "name": "IDM_EDIT_DELETE",
+    "description": "Delete",
+    "type": 2
+  },
+  {
+    "code": "42010",
+    "name": "IDM_EDIT_DUP_LINE",
+    "description": "Duplicate line",
+    "type": 2
+  },
+  {
+    "code": "42030",
+    "name": "IDM_EDIT_FILENAMETOCLIP",
+    "description": "Copy file name",
+    "type": 2
+  },
+  {
+    "code": "42029",
+    "name": "IDM_EDIT_FULLPATHTOCLIP",
+    "description": "Copy file dir",
+    "type": 2
+  },
+  {
+    "code": "42008",
+    "name": "IDM_EDIT_INS_TAB",
+    "description": "Insert tab",
+    "type": 2
+  },
+  {
+    "code": "42086",
+    "name": "IDM_EDIT_INSERT_DATETIME_CUSTOMIZED",
+    "description": "Insert datetime customized",
+    "type": 2
+  },
+  {
+    "code": "42085",
+    "name": "IDM_EDIT_INSERT_DATETIME_LONG",
+    "description": "Insert datetime long",
+    "type": 2
+  },
+  {
+    "code": "42084",
+    "name": "IDM_EDIT_INSERT_DATETIME_SHORT",
+    "description": "Insert datetime short",
+    "type": 2
+  },
+  {
+    "code": "42071",
+    "name": "IDM_EDIT_INVERTCASE",
+    "description": "Invert case of characters",
+    "type": 2
+  },
+  {
+    "code": "42013",
+    "name": "IDM_EDIT_JOIN_LINES",
+    "description": "Join multiple lines to one line",
+    "type": 2
+  },
+  {
+    "code": "42015",
+    "name": "IDM_EDIT_LINE_DOWN",
+    "description": "Move line down",
+    "type": 2
+  },
+  {
+    "code": "42014",
+    "name": "IDM_EDIT_LINE_UP",
+    "description": "Move line up",
+    "type": 2
+  },
+  {
+    "code": "42017",
+    "name": "IDM_EDIT_LOWERCASE",
+    "description": "Lowercase",
+    "type": 2
+  },
+  {
+    "code": "42005",
+    "name": "IDM_EDIT_PASTE",
+    "description": "Paste",
+    "type": 2
+  },
+  {
+    "code": "42038",
+    "name": "IDM_EDIT_PASTE_AS_HTML",
+    "description": "Paste as HTML",
+    "type": 2
+  },
+  {
+    "code": "42050",
+    "name": "IDM_EDIT_PASTE_BINARY",
+    "description": "Paste as Binary",
+    "type": 2
+  },
+  {
+    "code": "42004",
+    "name": "IDM_EDIT_REDO",
+    "description": "Redo",
+    "type": 2
+  },
+  {
+    "code": "42079",
+    "name": "IDM_EDIT_REMOVE_ANY_DUP_LINES",
+    "description": "Remove duplicate lines",
+    "type": 2
+  },
+  {
+    "code": "42077",
+    "name": "IDM_EDIT_REMOVE_CONSECUTIVE_DUP_LINES",
+    "description": "Remove consecutive duplicate lines",
+    "type": 2
+  },
+  {
+    "code": "42055",
+    "name": "IDM_EDIT_REMOVEEMPTYLINES",
+    "description": "Remove empty lines",
+    "type": 2
+  },
+  {
+    "code": "42056",
+    "name": "IDM_EDIT_REMOVEEMPTYLINESWITHBLANK",
+    "description": "Remove empty lines include space characters",
+    "type": 2
+  },
+  {
+    "code": "42007",
+    "name": "IDM_EDIT_SELECTALL",
+    "description": "Select all",
+    "type": 2
+  },
+  {
+    "code": "42063",
+    "name": "IDM_EDIT_SORTLINES_DECIMALCOMMA_ASCENDING",
+    "description": "Sort decimal comma ascending",
+    "type": 2
+  },
+  {
+    "code": "42064",
+    "name": "IDM_EDIT_SORTLINES_DECIMALCOMMA_DESCENDING",
+    "description": "Sort decimal comma descending",
+    "type": 2
+  },
+  {
+    "code": "42065",
+    "name": "IDM_EDIT_SORTLINES_DECIMALDOT_ASCENDING",
+    "description": "Sort decimal dot ascending",
+    "type": 2
+  },
+  {
+    "code": "42066",
+    "name": "IDM_EDIT_SORTLINES_DECIMALDOT_DESCENDING",
+    "description": "Sort decimal dot descending",
+    "type": 2
+  },
+  {
+    "code": "42061",
+    "name": "IDM_EDIT_SORTLINES_INTEGER_ASCENDING",
+    "description": "Sort interger ascending",
+    "type": 2
+  },
+  {
+    "code": "42062",
+    "name": "IDM_EDIT_SORTLINES_INTEGER_DESCENDING",
+    "description": "Sort integer descending",
+    "type": 2
+  },
+  {
+    "code": "42078",
+    "name": "IDM_EDIT_SORTLINES_RANDOMLY",
+    "description": "Shuffle lines",
+    "type": 2
+  },
+  {
+    "code": "42083",
+    "name": "IDM_EDIT_SORTLINES_REVERSE_ORDER",
+    "description": "Reverse lines order",
+    "type": 2
+  },
+  {
+    "code": "42012",
+    "name": "IDM_EDIT_SPLIT_LINES",
+    "description": "Split lines",
+    "type": 2
+  },
+  {
+    "code": "42011",
+    "name": "IDM_EDIT_TRANSPOSE_LINE",
+    "description": "Transpose lines",
+    "type": 2
+  },
+  {
+    "code": "42043",
+    "name": "IDM_EDIT_TRIM_BOTH",
+    "description": "Trim both",
+    "type": 2
+  },
+  {
+    "code": "42045",
+    "name": "IDM_EDIT_TRIMALL",
+    "description": "Trim all",
+    "type": 2
+  },
+  {
+    "code": "42024",
+    "name": "IDM_EDIT_TRIMTRAILING",
+    "description": "Trim trailing",
+    "type": 2
+  },
+  {
+    "code": "42003",
+    "name": "IDM_EDIT_UNDO",
+    "description": "Undo",
+    "type": 2
+  },
+  {
+    "code": "42016",
+    "name": "IDM_EDIT_UPPERCASE",
+    "description": "Uppercase",
+    "type": 2
+  },
+  {
+    "code": "41003",
+    "name": "IDM_FILE_CLOSE",
+    "description": "Close file",
+    "type": 2
+  },
+  {
+    "code": "41004",
+    "name": "IDM_FILE_CLOSEALL",
+    "description": "Close all",
+    "type": 2
+  },
+  {
+    "code": "41005",
+    "name": "IDM_FILE_CLOSEALL_BUT_CURRENT",
+    "description": "Close all others",
+    "type": 2
+  },
+  {
+    "code": "41009",
+    "name": "IDM_FILE_CLOSEALL_TOLEFT",
+    "description": "Close all to left",
+    "type": 2
+  },
+  {
+    "code": "41018",
+    "name": "IDM_FILE_CLOSEALL_TORIGHT",
+    "description": "Close all to right",
+    "type": 2
+  },
+  {
+    "code": "41024",
+    "name": "IDM_FILE_CLOSEALL_UNCHANGED",
+    "description": "Close all unchanged",
+    "type": 2
+  },
+  {
+    "code": "41016",
+    "name": "IDM_FILE_DELETE",
+    "description": "Delete",
+    "type": 2
+  },
+  {
+    "code": "41011",
+    "name": "IDM_FILE_EXIT",
+    "description": "Exit",
+    "type": 2
+  },
+  {
+    "code": "41001",
+    "name": "IDM_FILE_NEW",
+    "description": "New",
+    "type": 2
+  },
+  {
+    "code": "41002",
+    "name": "IDM_FILE_OPEN",
+    "description": "Open",
+    "type": 2
+  },
+  {
+    "code": "41020",
+    "name": "IDM_FILE_OPEN_CMD",
+    "description": "Open cmd",
+    "type": 2
+  },
+  {
+    "code": "41019",
+    "name": "IDM_FILE_OPEN_FOLDER",
+    "description": "Open folder",
+    "type": 2
+  },
+  {
+    "code": "41010",
+    "name": "IDM_FILE_PRINT",
+    "description": "Print",
+    "type": 2
+  },
+  {
+    "code": "1001",
+    "name": "IDM_FILE_PRINTNOW",
+    "description": "Print now",
+    "type": 2
+  },
+  {
+    "code": "41014",
+    "name": "IDM_FILE_RELOAD",
+    "description": "Reload",
+    "type": 2
+  },
+  {
+    "code": "41017",
+    "name": "IDM_FILE_RENAME",
+    "description": "Rename",
+    "type": 2
+  },
+  {
+    "code": "41021",
+    "name": "IDM_FILE_RESTORELASTCLOSEDFILE",
+    "description": "Restore last closed file",
+    "type": 2
+  },
+  {
+    "code": "41006",
+    "name": "IDM_FILE_SAVE",
+    "description": "Save",
+    "type": 2
+  },
+  {
+    "code": "41007",
+    "name": "IDM_FILE_SAVEALL",
+    "description": "Save all",
+    "type": 2
+  },
+  {
+    "code": "41008",
+    "name": "IDM_FILE_SAVEAS",
+    "description": "Save as",
+    "type": 2
+  },
+  {
+    "code": "41015",
+    "name": "IDM_FILE_SAVECOPYAS",
+    "description": "Save as copy",
+    "type": 2
+  },
+  {
+    "code": "45004",
+    "name": "IDM_FORMAT_ANSI",
+    "description": "Format as ANSI",
+    "type": 2
+  },
+  {
+    "code": "45008",
+    "name": "IDM_FORMAT_AS_UTF_8",
+    "description": "Format as UTF-8",
+    "type": 2
+  },
+  {
+    "code": "45009",
+    "name": "IDM_FORMAT_CONV2_ANSI",
+    "description": "Convert to ANSI",
+    "type": 2
+  },
+  {
+    "code": "45010",
+    "name": "IDM_FORMAT_CONV2_AS_UTF_8",
+    "description": "Convert to UTF-8",
+    "type": 2
+  },
+  {
+    "code": "45012",
+    "name": "IDM_FORMAT_CONV2_UTF_16BE",
+    "description": "Convert to UTF-16BE",
+    "type": 2
+  },
+  {
+    "code": "45013",
+    "name": "IDM_FORMAT_CONV2_UTF_16LE",
+    "description": "Convert to UTF-16LE",
+    "type": 2
+  },
+  {
+    "code": "45011",
+    "name": "IDM_FORMAT_CONV2_UTF_8",
+    "description": "Convert to UTF-8",
+    "type": 2
+  },
+  {
+    "code": "45062",
+    "name": "IDM_FORMAT_SHIFT_JIS",
+    "description": "Format Shift-JIS",
+    "type": 2
+  },
+  {
+    "code": "45005",
+    "name": "IDM_FORMAT_UTF_8",
+    "description": "Format as UTF-8",
+    "type": 2
+  },
+  {
+    "code": "45020",
+    "name": "IDM_FORMAT_WIN_1250",
+    "description": "Format as Win-1250",
+    "type": 2
+  },
+  {
+    "code": "45021",
+    "name": "IDM_FORMAT_WIN_1251",
+    "description": "Format as Win-1251",
+    "type": 2
+  },
+  {
+    "code": "45022",
+    "name": "IDM_FORMAT_WIN_1252",
+    "description": "Format as Win-1252",
+    "type": 2
+  },
+  {
+    "code": "45023",
+    "name": "IDM_FORMAT_WIN_1253",
+    "description": "Format as Win-1253",
+    "type": 2
+  },
+  {
+    "code": "45024",
+    "name": "IDM_FORMAT_WIN_1254",
+    "description": "Format as Win-1254",
+    "type": 2
+  },
+  {
+    "code": "45025",
+    "name": "IDM_FORMAT_WIN_1255",
+    "description": "Format as Win-1255",
+    "type": 2
+  },
+  {
+    "code": "45026",
+    "name": "IDM_FORMAT_WIN_1256",
+    "description": "Format as Win-1256",
+    "type": 2
+  },
+  {
+    "code": "45027",
+    "name": "IDM_FORMAT_WIN_1257",
+    "description": "Format as Win-1257",
+    "type": 2
+  },
+  {
+    "code": "45028",
+    "name": "IDM_FORMAT_WIN_1258",
+    "description": "Format as Win-1258",
+    "type": 2
+  },
+  {
+    "code": "46042",
+    "name": "IDM_LANG_ADA",
+    "description": "Language ADA",
+    "type": 2
+  },
+  {
+    "code": "46015",
+    "name": "IDM_LANG_ASCII",
+    "description": "Language ASCII",
+    "type": 2
+  },
+  {
+    "code": "46033",
+    "name": "IDM_LANG_ASM",
+    "description": "Language ASM",
+    "type": 2
+  },
+  {
+    "code": "46064",
+    "name": "IDM_LANG_ASN1",
+    "description": "Language ASN1",
+    "type": 2
+  },
+  {
+    "code": "46009",
+    "name": "IDM_LANG_ASP",
+    "description": "Language ASP",
+    "type": 2
+  },
+  {
+    "code": "46044",
+    "name": "IDM_LANG_AU3",
+    "description": "Language AU3",
+    "type": 2
+  },
+  {
+    "code": "46065",
+    "name": "IDM_LANG_AVS",
+    "description": "Language AVS",
+    "type": 2
+  },
+  {
+    "code": "46059",
+    "name": "IDM_LANG_BAANC",
+    "description": "Language BAANC",
+    "type": 2
+  },
+  {
+    "code": "46027",
+    "name": "IDM_LANG_BASH",
+    "description": "Language BASH",
+    "type": 2
+  },
+  {
+    "code": "46022",
+    "name": "IDM_LANG_BATCH",
+    "description": "Language BATCH",
+    "type": 2
+  },
+  {
+    "code": "46066",
+    "name": "IDM_LANG_BLITZBASIC",
+    "description": "Language BLITZBASIC",
+    "type": 2
+  },
+  {
+    "code": "46002",
+    "name": "IDM_LANG_C",
+    "description": "Language C",
+    "type": 2
+  },
+  {
+    "code": "46040",
+    "name": "IDM_LANG_CAML",
+    "description": "Language CAML",
+    "type": 2
+  },
+  {
+    "code": "46048",
+    "name": "IDM_LANG_CMAKE",
+    "description": "Language CMAKE",
+    "type": 2
+  },
+  {
+    "code": "46050",
+    "name": "IDM_LANG_COBOL",
+    "description": "Language COBOL",
+    "type": 2
+  },
+  {
+    "code": "46056",
+    "name": "IDM_LANG_COFFEESCRIPT",
+    "description": "Language COFFEE SCRIPT",
+    "type": 2
+  },
+  {
+    "code": "46003",
+    "name": "IDM_LANG_CPP",
+    "description": "Language CPP",
+    "type": 2
+  },
+  {
+    "code": "46023",
+    "name": "IDM_LANG_CS",
+    "description": "Language CS",
+    "type": 2
+  },
+  {
+    "code": "46069",
+    "name": "IDM_LANG_CSOUND",
+    "description": "Language CSOUND",
+    "type": 2
+  },
+  {
+    "code": "46010",
+    "name": "IDM_LANG_CSS",
+    "description": "Language CSS",
+    "type": 2
+  },
+  {
+    "code": "46051",
+    "name": "IDM_LANG_D",
+    "description": "Language D",
+    "type": 2
+  },
+  {
+    "code": "46034",
+    "name": "IDM_LANG_DIFF",
+    "description": "Language DIFF",
+    "type": 2
+  },
+  {
+    "code": "46070",
+    "name": "IDM_LANG_ERLANG",
+    "description": "Language ERLANG",
+    "type": 2
+  },
+  {
+    "code": "46071",
+    "name": "IDM_LANG_ESCRIPT",
+    "description": "Language ESCRIPT",
+    "type": 2
+  },
+  {
+    "code": "46165",
+    "name": "IDM_LANG_EXTERNAL",
+    "description": "Language EXTERNAL",
+    "type": 2
+  },
+  {
+    "code": "46179",
+    "name": "IDM_LANG_EXTERNAL_LIMIT",
+    "description": "Language EXTERNAL LIMIT",
+    "type": 2
+  },
+  {
+    "code": "46028",
+    "name": "IDM_LANG_FLASH",
+    "description": "Language FLASH",
+    "type": 2
+  },
+  {
+    "code": "46072",
+    "name": "IDM_LANG_FORTH",
+    "description": "Language FORTH",
+    "type": 2
+  },
+  {
+    "code": "46026",
+    "name": "IDM_LANG_FORTRAN",
+    "description": "Language FORTRAN",
+    "type": 2
+  },
+  {
+    "code": "46058",
+    "name": "IDM_LANG_FORTRAN_77",
+    "description": "Language FORTRAN 77",
+    "type": 2
+  },
+  {
+    "code": "46068",
+    "name": "IDM_LANG_FREEBASIC",
+    "description": "Language FREEBASIC",
+    "type": 2
+  },
+  {
+    "code": "46052",
+    "name": "IDM_LANG_GUI4CLI",
+    "description": "Language GUI4CLI",
+    "type": 2
+  },
+  {
+    "code": "46046",
+    "name": "IDM_LANG_HASKELL",
+    "description": "Language HASKELL",
+    "type": 2
+  },
+  {
+    "code": "46005",
+    "name": "IDM_LANG_HTML",
+    "description": "Language HTML",
+    "type": 2
+  },
+  {
+    "code": "46061",
+    "name": "IDM_LANG_IHEX",
+    "description": "Language IHEX",
+    "type": 2
+  },
+  {
+    "code": "46019",
+    "name": "IDM_LANG_INI",
+    "description": "Language INI",
+    "type": 2
+  },
+  {
+    "code": "46047",
+    "name": "IDM_LANG_INNO",
+    "description": "Language INNO",
+    "type": 2
+  },
+  {
+    "code": "46004",
+    "name": "IDM_LANG_JAVA",
+    "description": "Language JAVA",
+    "type": 2
+  },
+  {
+    "code": "46007",
+    "name": "IDM_LANG_JS",
+    "description": "Language JS",
+    "type": 2
+  },
+  {
+    "code": "46057",
+    "name": "IDM_LANG_JSON",
+    "description": "Language JSON",
+    "type": 2
+  },
+  {
+    "code": "46055",
+    "name": "IDM_LANG_JSP",
+    "description": "Language JSP",
+    "type": 2
+  },
+  {
+    "code": "46041",
+    "name": "IDM_LANG_KIX",
+    "description": "Language KIX",
+    "type": 2
+  },
+  {
+    "code": "46073",
+    "name": "IDM_LANG_LATEX",
+    "description": "Language LATEX",
+    "type": 2
+  },
+  {
+    "code": "46031",
+    "name": "IDM_LANG_LISP",
+    "description": "Language LISP",
+    "type": 2
+  },
+  {
+    "code": "46024",
+    "name": "IDM_LANG_LUA",
+    "description": "Language LUA",
+    "type": 2
+  },
+  {
+    "code": "46018",
+    "name": "IDM_LANG_MAKEFILE",
+    "description": "Language MAKEFILE",
+    "type": 2
+  },
+  {
+    "code": "46045",
+    "name": "IDM_LANG_MATLAB",
+    "description": "Language MATLAB",
+    "type": 2
+  },
+  {
+    "code": "46074",
+    "name": "IDM_LANG_MMIXAL",
+    "description": "Language MMIXAL",
+    "type": 2
+  },
+  {
+    "code": "46075",
+    "name": "IDM_LANG_NIM",
+    "description": "Language NIM",
+    "type": 2
+  },
+  {
+    "code": "46076",
+    "name": "IDM_LANG_NNCRONTAB",
+    "description": "Language NNCROBTAB",
+    "type": 2
+  },
+  {
+    "code": "46029",
+    "name": "IDM_LANG_NSIS",
+    "description": "Language NSIS",
+    "type": 2
+  },
+  {
+    "code": "46014",
+    "name": "IDM_LANG_OBJC",
+    "description": "Language OBJC",
+    "type": 2
+  },
+  {
+    "code": "46300",
+    "name": "IDM_LANG_OPENUDLDIR",
+    "description": "Language OPENUDLDIR",
+    "type": 2
+  },
+  {
+    "code": "46077",
+    "name": "IDM_LANG_OSCRIPT",
+    "description": "Language OSCRIPT",
+    "type": 2
+  },
+  {
+    "code": "46011",
+    "name": "IDM_LANG_PASCAL",
+    "description": "Language PASCAL",
+    "type": 2
+  },
+  {
+    "code": "46013",
+    "name": "IDM_LANG_PERL",
+    "description": "Language PERL",
+    "type": 2
+  },
+  {
+    "code": "46008",
+    "name": "IDM_LANG_PHP",
+    "description": "Language PHP",
+    "type": 2
+  },
+  {
+    "code": "46053",
+    "name": "IDM_LANG_POWERSHELL",
+    "description": "Language POWERSHELL",
+    "type": 2
+  },
+  {
+    "code": "46035",
+    "name": "IDM_LANG_PROPS",
+    "description": "Language PROPS",
+    "type": 2
+  },
+  {
+    "code": "46036",
+    "name": "IDM_LANG_PS",
+    "description": "Language PS",
+    "type": 2
+  },
+  {
+    "code": "46067",
+    "name": "IDM_LANG_PUREBASIC",
+    "description": "Language PUREBASIC",
+    "type": 2
+  },
+  {
+    "code": "46012",
+    "name": "IDM_LANG_PYTHON",
+    "description": "Language PYTHON",
+    "type": 2
+  },
+  {
+    "code": "46054",
+    "name": "IDM_LANG_R",
+    "description": "Language R",
+    "type": 2
+  },
+  {
+    "code": "46017",
+    "name": "IDM_LANG_RC",
+    "description": "Language RC",
+    "type": 2
+  },
+  {
+    "code": "46078",
+    "name": "IDM_LANG_REBOL",
+    "description": "Language REBOL",
+    "type": 2
+  },
+  {
+    "code": "46079",
+    "name": "IDM_LANG_REGISTRY",
+    "description": "Language REGISTRY",
+    "type": 2
+  },
+  {
+    "code": "46037",
+    "name": "IDM_LANG_RUBY",
+    "description": "Language RUBY",
+    "type": 2
+  },
+  {
+    "code": "46080",
+    "name": "IDM_LANG_RUST",
+    "description": "Language RUST",
+    "type": 2
+  },
+  {
+    "code": "46032",
+    "name": "IDM_LANG_SCHEME",
+    "description": "Language SCHEME",
+    "type": 2
+  },
+  {
+    "code": "46038",
+    "name": "IDM_LANG_SMALLTALK",
+    "description": "Language SMALL TALK",
+    "type": 2
+  },
+  {
+    "code": "46081",
+    "name": "IDM_LANG_SPICE",
+    "description": "Language SPICE",
+    "type": 2
+  },
+  {
+    "code": "46020",
+    "name": "IDM_LANG_SQL",
+    "description": "Language SQL",
+    "type": 2
+  },
+  {
+    "code": "46060",
+    "name": "IDM_LANG_SREC",
+    "description": "Language SPEC",
+    "type": 2
+  },
+  {
+    "code": "46063",
+    "name": "IDM_LANG_SWIFT",
+    "description": "Language SWIFT",
+    "type": 2
+  },
+  {
+    "code": "46030",
+    "name": "IDM_LANG_TCL",
+    "description": "Language TCL",
+    "type": 2
+  },
+  {
+    "code": "46062",
+    "name": "IDM_LANG_TEHEX",
+    "description": "Language TEHEX",
+    "type": 2
+  },
+  {
+    "code": "46025",
+    "name": "IDM_LANG_TEX",
+    "description": "Language TEX",
+    "type": 2
+  },
+  {
+    "code": "46016",
+    "name": "IDM_LANG_TEXT",
+    "description": "Language TEXT",
+    "type": 2
+  },
+  {
+    "code": "46082",
+    "name": "IDM_LANG_TXT2TAGS",
+    "description": "Language TXT2TAGS",
+    "type": 2
+  },
+  {
+    "code": "46084",
+    "name": "IDM_LANG_TYPESCRIPT",
+    "description": "Language TYPESCRIPT",
+    "type": 2
+  },
+  {
+    "code": "46301",
+    "name": "IDM_LANG_UDLCOLLECTION_PROJECT_SITE",
+    "description": "Language UDL COLLECTION PROJECT SITE",
+    "type": 2
+  },
+  {
+    "code": "46180",
+    "name": "IDM_LANG_USER",
+    "description": "Language USER",
+    "type": 2
+  },
+  {
+    "code": "46250",
+    "name": "IDM_LANG_USER_DLG",
+    "description": "Language USER DLG",
+    "type": 2
+  },
+  {
+    "code": "46210",
+    "name": "IDM_LANG_USER_LIMIT",
+    "description": "Language USER LIMIT",
+    "type": 2
+  },
+  {
+    "code": "46021",
+    "name": "IDM_LANG_VB",
+    "description": "Language VB",
+    "type": 2
+  },
+  {
+    "code": "46043",
+    "name": "IDM_LANG_VERILOG",
+    "description": "Language VERILOG",
+    "type": 2
+  },
+  {
+    "code": "46039",
+    "name": "IDM_LANG_VHDL",
+    "description": "Language VHDL",
+    "type": 2
+  },
+  {
+    "code": "46083",
+    "name": "IDM_LANG_VISUALPROLOG",
+    "description": "Language VISUAL PROLOG",
+    "type": 2
+  },
+  {
+    "code": "46006",
+    "name": "IDM_LANG_XML",
+    "description": "Language XML",
+    "type": 2
+  },
+  {
+    "code": "46049",
+    "name": "IDM_LANG_YAML",
+    "description": "Language YAML",
+    "type": 2
+  },
+  {
+    "code": "43008",
+    "name": "IDM_SEARCH_CLEAR_BOOKMARKS",
+    "description": "Clear bookmarks",
+    "type": 2
+  },
+  {
+    "code": "43032",
+    "name": "IDM_SEARCH_CLEARALLMARKS",
+    "description": "Clear all marks",
+    "type": 2
+  },
+  {
+    "code": "43019",
+    "name": "IDM_SEARCH_COPYMARKEDLINES",
+    "description": "Copy marked lines",
+    "type": 2
+  },
+  {
+    "code": "43018",
+    "name": "IDM_SEARCH_CUTMARKEDLINES",
+    "description": "Cut marked lines",
+    "type": 2
+  },
+  {
+    "code": "43021",
+    "name": "IDM_SEARCH_DELETEMARKEDLINES",
+    "description": "Delete marked lines",
+    "type": 2
+  },
+  {
+    "code": "43051",
+    "name": "IDM_SEARCH_DELETEUNMARKEDLINES",
+    "description": "Delete unmarkded lines",
+    "type": 2
+  },
+  {
+    "code": "43052",
+    "name": "IDM_SEARCH_FINDCHARINRANGE",
+    "description": "Find char in range",
+    "type": 2
+  },
+  {
+    "code": "43011",
+    "name": "IDM_SEARCH_FINDINCREMENT",
+    "description": "Find increment",
+    "type": 2
+  },
+  {
+    "code": "43013",
+    "name": "IDM_SEARCH_FINDINFILES",
+    "description": "Find in files",
+    "type": 2
+  },
+  {
+    "code": "43002",
+    "name": "IDM_SEARCH_FINDNEXT",
+    "description": "Find next",
+    "type": 2
+  },
+  {
+    "code": "43010",
+    "name": "IDM_SEARCH_FINDPREV",
+    "description": "Find previous",
+    "type": 2
+  },
+  {
+    "code": "43004",
+    "name": "IDM_SEARCH_GOTOLINE",
+    "description": "Goto line",
+    "type": 2
+  },
+  {
+    "code": "43046",
+    "name": "IDM_SEARCH_GOTONEXTFOUND",
+    "description": "Goto next found",
+    "type": 2
+  },
+  {
+    "code": "43047",
+    "name": "IDM_SEARCH_GOTOPREVFOUND",
+    "description": "Go to previous found",
+    "type": 2
+  },
+  {
+    "code": "43050",
+    "name": "IDM_SEARCH_INVERSEMARKS",
+    "description": "Inverse marks",
+    "type": 2
+  },
+  {
+    "code": "43054",
+    "name": "IDM_SEARCH_MARK",
+    "description": "Mark",
+    "type": 2
+  },
+  {
+    "code": "43061",
+    "name": "IDM_SEARCH_MARKEDTOCLIP",
+    "description": "Marked to clipboard",
+    "type": 2
+  },
+  {
+    "code": "43020",
+    "name": "IDM_SEARCH_PASTEMARKEDLINES",
+    "description": "Paste marked lines",
+    "type": 2
+  },
+  {
+    "code": "43003",
+    "name": "IDM_SEARCH_REPLACE",
+    "description": "Replace",
+    "type": 2
+  },
+  {
+    "code": "43005",
+    "name": "IDM_SEARCH_TOGGLE_BOOKMARK",
+    "description": "Toggle bookmark",
+    "type": 2
+  },
+  {
+    "code": "47006",
+    "name": "IDM_UPDATE_NPP",
+    "description": "Update Notepad++",
+    "type": 2
+  }
+]

@@ -1,0 +1,9 @@
+﻿{
+	"wellcome": "Xin chào! server đang hoạt động.",
+	"custom": {
+		"notepad": {
+			"namePattern": "^(?<tab>\\s*)<Macro\\sname=\"(?<name>.+?)\"\\sCtrl=\"(?<ctrl>.+?)\"\\sAlt=\"(?<alt>.+?)\"\\sShift=\"(?<shift>.+?)\"\\sKey=\"(?<key>.+?)\">$",
+			"actionPattern": "^(?<tab>\\s*)<Action\\stype=\"(?<type>.+?)\"\\smessage=\"(?<message>.+?)\"\\swParam=\"(?<wParam>.+?)\"\\slParam=\"(?<lParam>.+?)\"\\ssParam=\"(?<sParam>.*?)\"\\s/>$"
+		}
+	}
+}
