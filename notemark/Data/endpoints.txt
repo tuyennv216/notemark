@@ -1,0 +1,19 @@
+﻿Endpoints:
+
+/data
+	/action-type-01 : get actions type 0, and 1
+	/action-type-2 : get actions type 2
+	/action-type-3 : get actions type 3
+	/keyboard-dictionary : get keyboard mapping
+
+/notepad
+	/new-macro : get new macro object
+	/new-action : get new action object
+	/new-action-full : get new action object with full parameters
+	/new-macro-string : get new macro string template
+	/new-action-string : get new action string template
+	/new-action-full-string : get new action string template with full parameters
+	/escape-xml-string : escape xml string
+	/describe-name : describe macro object
+	/describe-action : describe action object
+	/describe-macro : describe describe macro (xml string encoded)

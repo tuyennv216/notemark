@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using notemark.Interface;
 using System.Net;
 
 namespace notemark.Controllers;
@@ -8,17 +9,22 @@ namespace notemark.Controllers;
 public class homeController : ControllerBase
 {
 	private readonly IConfiguration _configuration;
+	private readonly IDataService _dataService;
 
-	public homeController(IConfiguration configuration)
+	public homeController(IConfiguration configuration, IDataService dataService)
 	{
 		_configuration = configuration;
+		_dataService = dataService;
 	}
 
 	[HttpGet("/")]
 	public IActionResult Welcome()
 	{
 		var wellcome = _configuration.GetValue<string>("wellcome") ?? "Hello! Server is running.";
-		return Ok(wellcome);
+		var endpoints = _dataService.GetEndpoints();
+		var output = wellcome + Environment.NewLine + Environment.NewLine + endpoints;
+
+		return Ok(output);
 	}
 
 	[Route("/{**unknown}")]

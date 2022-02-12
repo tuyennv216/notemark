@@ -11,4 +11,6 @@ public interface IDataService
 	public Dictionary<string, Act> GetActionType2AsDictionary();
 	public Dictionary<string, Act> GetActionType3AsDictionary();
 	public Dictionary<string, KeyInfo> GetKeyboardDictionary();
+
+	public string GetEndpoints();
 }

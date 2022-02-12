@@ -17,6 +17,8 @@ public class DataService : IDataService
 	private readonly Dictionary<string, Act> _actionsType3AsDictionary;
 	private readonly Dictionary<string, KeyInfo> _keyboardDict;
 
+	private readonly string _endpoints;
+
 	public DataService(IConfiguration configuration)
 	{
 		_configuration = configuration;
@@ -38,6 +40,9 @@ public class DataService : IDataService
 		_actionsType01AsDictionary = MaskDictionary.FromArray(_actionsType01, item => item.Code);
 		_actionsType2AsDictionary = MaskDictionary.FromArray(_actionsType2, item => item.Code);
 		_actionsType3AsDictionary = MaskDictionary.FromArray(_actionsType3, item => item.Code);
+
+		// Load endpoints
+		_endpoints = File.ReadAllText("Data/endpoints.txt");
 	}
 
 	public Act[] GetActionType01()
@@ -73,5 +78,10 @@ public class DataService : IDataService
 	public Dictionary<string, KeyInfo> GetKeyboardDictionary()
 	{
 		return _keyboardDict;
+	}
+
+	public string GetEndpoints()
+	{
+		return _endpoints;
 	}
 }
